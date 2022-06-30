@@ -28,30 +28,30 @@ Create a program, which, given a 5 character string as a target word, and a 5 ch
  
 #### No matching characters
 
-Target = “ropes”
-Guess  = “child”
+Target = “ropes”  
+Guess  = “child”  
 Result = “00000”
  
 #### Characters match in correct positions
 
-Target = “alert”
-Guess  = “alarm”
+Target = “alert”  
+Guess  = “alarm”  
 Result = “22020”
  
 #### Character in wrong position
 
-Target = “stair”
-Guess  = “chore”
-Result = “00010”
+Target = “stair”  
+Guess  = “chore”  
+Result = “00010”  
  
 #### Mix of match and wrong position
 
-Target = “hairy”
-Guess  = “charm”
-Result = “01120”
+Target = “hairy”  
+Guess  = “charm”  
+Result = “01120”  
  
 #### Multiple characters in wrong positions
 
-Target = “reads”
-Guess  = “elect”
-Result = “10000”
+Target = “reads”  
+Guess  = “elect”  
+Result = “10000”  
